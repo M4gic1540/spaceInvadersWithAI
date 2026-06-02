@@ -1,0 +1,6 @@
+* Space Invaders with Genetic Algorithm
+Este proyecto es una implementación del clásico juego Space Invaders, pero con un giro innovador: los alienígenas son controlados por una inteligencia artificial que evoluciona a través de un algoritmo genético. A medida que los alienígenas interactúan con el entorno y enfrentan desafíos, su "cerebro" se adapta y mejora, permitiéndoles tomar decisiones más inteligentes para sobrevivir y atacar al jugador.
+## Características Principales
+- **Inteligencia Artificial Evolutiva**: Cada alienígena tiene un cerebro basado en una red neuronal simple, cuyos pesos se ajustan mediante un algoritmo genético. A medida que los alienígenas mueren, sus cerebros se evalúan y los mejores se reproducen para crear la siguiente generación.
+- **Interacción Dinámica**: Los alienígenas pueden detectar la posición del jugador, la proximidad de las balas y los bordes de la pantalla para tomar decisiones informadas sobre su movimiento.
+- **Gráficos y Sonidos**: El juego cuenta con gráficos retro y efectos de sonido que recrean la atmósfera clásica de Space Invaders.
